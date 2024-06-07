@@ -1,3 +1,0 @@
-#!/bin/sh
-echo "Seu commit vai dar certo"
-exit 0
